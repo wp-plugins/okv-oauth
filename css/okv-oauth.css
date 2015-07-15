@@ -1,0 +1,39 @@
+
+
+.okv-oauth-logins {
+	margin-bottom: 15px;
+}
+.okv-oauth-logins .oauth-login {
+	text-align: center;
+}
+.okv-oauth-logins .oauth-login a {
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	display: block;
+	margin: 0 auto;
+	text-indent: -999999px;
+}
+
+
+.okv-oauth-logins .or-original-wp-login {
+	font-weight: bold;
+	margin: 15px 0;
+	text-align: center;
+}
+
+
+#loginform.oauth-only,
+#registerform.oauth-only {
+	padding-bottom: 26px;
+}
+#loginform.oauth-only .okv-oauth-logins,
+#registerform.oauth-only .okv-oauth-logins {
+	margin: 0;
+}
+
+
+#user_email.readonly {
+	color: #999;
+	cursor: not-allowed;
+}

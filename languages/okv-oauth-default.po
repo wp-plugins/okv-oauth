@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: okv-oauth 0.1\n"
+"POT-Creation-Date: 2015-07-09 05:04+0700\n"
+"PO-Revision-Date: 2015-07-09 05:14+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;__ngettext;_n;"
+"__ngettext_noop;_n_noop;_x;_nx;_nx_noop;_ex;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;_e;_nc\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:28
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:65
+msgid "Okvee OAuth settings"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:28
+msgid "Okvee OAuth"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:38
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:60
+msgid "Settings saved."
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:70
+msgid "Login method"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:73
+msgid "Do not use (use WordPress login)"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:74
+msgid "Use WordPress login with OAuth"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:75
+msgid "Use OAuth only"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:83
+msgid "Google login"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:86
+msgid "Client ID"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:92
+msgid "Client secret"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:100
+#, php-format
+msgid ""
+"Please visit <a href=\"%s\" target=\"gg_project\">Google Projects</a> and "
+"create or open your project."
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:101
+msgid "Go to APIs &amp; auth &gt; APIs and enable Google+ API."
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:102
+msgid "Go to Credentials."
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:103
+msgid "Click on Create new Client ID."
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:104
+msgid "Authorized JavaScript origins: enter <strong>"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:105
+msgid "Authorized redirect URIs: enter <strong>"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:106
+msgid "Use Client ID and Client secret generated from there."
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/AdminMenu.php:107
+msgid "Go to Consent screen and enter your information there."
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/HookLoginPage.php:55
+msgid "The original login step has been disabled."
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/HookLoginPage.php:146
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/HookLoginPage.php:282
+msgid "OR"
+msgstr ""
+
+#: C:\Users\mr.v\my-sites\product-okvee-oauth\okv-oauth/Library/HookLoginPage.php:236
+msgid "The original forgot password step has been disabled."
+msgstr ""

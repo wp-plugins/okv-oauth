@@ -1,0 +1,16 @@
+
+
+.okv-oauth-logins .oauth-login a {
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	display: block;
+	height: 40px;
+	width: 132px;
+}
+.okv-oauth-logins .oauth-login.google-login a {
+	background-image: url('../img/google-login.png');
+}
+.okv-oauth-logins .oauth-login.google-register a {
+	background-image: url('../img/google-register.png');
+}
