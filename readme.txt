@@ -11,7 +11,7 @@ Use OAuth such as Google to login and register.
 == Description ==
 Use Oauth such as Google account to login, register member in WordPress website. Control how your wp-login page will be used. Force use only OAuth or use them both.
 
-If you want more secure to your account then you may needs \"Multi-factor\" authentication. But if you have many WordPress website on different server location (not multi-site WP) you must have too many of them in one authenticator app.
+If you want more secure to your account then you may needs "Multi-factor" authentication. But if you have many WordPress website on different server location (not multi-site WP) you must have too many of them in one authenticator app.
 
 So, it is good idea to use OAuth instead because Google already use that.
 
@@ -24,8 +24,8 @@ Open SSL PHP extension.<br>
 WordPress 4.0
 
 == Installation ==
-1. Upload \"okv-oauth\" folder to the \"/wp-content/plugins/\" directory.
-2. Activate the plugin through the \"Plugins\" menu in WordPress.
+1. Upload "okv-oauth" folder to the "/wp-content/plugins/" directory.
+2. Activate the plugin through the "Plugins" menu in WordPress.
 3. Access plugin setup page.
 4. Follow setup instruction on screen.
 
@@ -35,15 +35,19 @@ WordPress 4.0
 Yes, check your settings.
 
 = Does multi-site work? =
-I\'m not sure.
+I'm not sure.
 
 == Screenshots ==
-1. screenshot/oauth-register-with-wp-form.png
-2. screenshot/oauth-register-only.png
-3. screenshot/oauth-login-with-wp-form.png
-4. screenshot/oauth-login-only.png
-5. screenshot/oauth-admin-settings.png
+1. Administrator settings
+2. OAuth log in only
+3. OAuth log in with WordPress form
+4. OAuth register only
+5. OAuth register with WordPress form
 
 == Changelog ==
 = 0.1 =
 * Beginning
+
+== Upgrade Notice ==
+= 0.1 =
+First version.
