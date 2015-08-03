@@ -1,4 +1,5 @@
 === Okv OAuth ===
+Contributors: okvee
 Tags: oauth, google, google login, google register, social login, social connect
 Requires at least: 4.0
 Tested up to: 4.2.2
