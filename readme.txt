@@ -2,7 +2,7 @@
 Contributors: okvee
 Tags: oauth, google, google login, google register, social login, social connect
 Requires at least: 4.0
-Tested up to: 4.2.2
+Tested up to: 4.3
 Stable tag: 0.1
 License: MIT
 License URI: http://opensource.org/licenses/MIT
